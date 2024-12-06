@@ -1,25 +1,19 @@
 
  <div style="font-family: 'Arial', sans-serif; line-height: 1.8; background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 20px auto; color: #333;">
   <h1 style="text-align: center; color: #4CAF50;">👋 Olá! Sejam Bem-Vindos(a)!</h1>
-  
-  <h2 style="color: #333;">💻 Quem sou eu?</h2>
+  <h2 style="color: #333;">💻 Atualmente</h2>
   <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, iniciando minha trajetória no universo da tecnologia, sempre com muita vontade de aprender e crescer na área.</p>
-  
   <h2 style="color: #333;">🚀 O que estou fazendo?</h2>
-  <p>Atualmente, estou explorando conceitos de desenvolvimento web, bancos de dados e computação em nuvem.</p>
-  
+  <p>Estou explorando conceitos de desenvolvimento web, bancos de dados e computação em nuvem.</p>
   <h2 style="color: #333;">🎯 Habilidades em desenvolvimento:</h2>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Noções básicas em programação.</li>
     <li>Interesse em análise de dados e computação em nuvem.</li>
   </ul>
-  
   <h2 style="color: #333;">🌟 Minha motivação:</h2>
   <p>Apesar de estar no começo, sou motivado pela ideia de construir soluções tecnológicas que tenham impacto real, ajudando pessoas e empresas a atingirem seus objetivos.</p>
-  
   <h2 style="color: #333;">📫 Vamos conversar?</h2>
   <p>Se você tem dicas, ideias ou projetos que queira compartilhar, adoraria aprender com você!</p>
-  
   <footer style="margin-top: 20px; text-align: center; color: #777; font-size: 0.9em;">
     <p>✨ Sempre em busca de aprendizado e novas conexões!</p>
   </footer>
