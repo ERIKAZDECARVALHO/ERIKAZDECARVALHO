@@ -1,5 +1,29 @@
 
- <p align="center"><div style="font-family: 'Arial', sans-serif; line-height: 1.8; background-color: #ffffff; padding: 25px; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); max-width: 700px; margin: 30px auto; color: #333;"><br>  <h1 style="text-align: center; color: #2c3e50;">👋 Olá! Sejam Bem-Vindos(a)!</h1><br>  <br>  <h2 style="color: #2c3e50;">💻 Quem sou eu?</h2><br>  <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, iniciando minha trajetória no universo da tecnologia. Com curiosidade e determinação, busco adquirir conhecimentos e experiências que me permitam contribuir para o desenvolvimento de soluções inovadoras.</p><br>  <br>  <h2 style="color: #2c3e50;">🚀 O que estou fazendo?</h2><br>  <p>Atualmente, estou focado em aprender e explorar áreas como desenvolvimento web, bancos de dados e computação em nuvem. Meu objetivo é aplicar esse conhecimento em projetos que promovam impacto real e positivo.</p><br>  <br>  <h2 style="color: #2c3e50;">🌟 Minha motivação:</h2><br>  <p>Sou movido pela oportunidade de transformar ideias em soluções práticas. Acredito que a tecnologia pode ser uma ferramenta poderosa para resolver problemas e melhorar a vida das pessoas, e estou comprometido em fazer parte desse impacto.</p><br>  <br>  <h2 style="color: #2c3e50;">📫 Vamos conversar?</h2><br>  <p>Estou aberto a novas conexões e colaborações. Se você tem ideias, projetos ou simplesmente quer trocar experiências, será um prazer conversar!</p><br>  <br>  <footer style="margin-top: 20px; text-align: center; color: #777; font-size: 0.85em;"><br>    <p>✨ Vamos construir o futuro juntos!</p><br>  </footer><br></div></p>
+ <div style="font-family: 'Arial', sans-serif; line-height: 1.8; background-color: #f9f9f9; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 800px; margin: 20px auto; color: #333;">
+  <h1 style="text-align: center; color: #4CAF50;">👋 Olá! Sejam Bem-Vindos(a)!</h1>
+  
+  <h2 style="color: #333;">💻 Quem sou eu?</h2>
+  <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, iniciando minha trajetória no universo da tecnologia, sempre com muita vontade de aprender e crescer na área.</p>
+  
+  <h2 style="color: #333;">🚀 O que estou fazendo?</h2>
+  <p>Atualmente, estou explorando conceitos de desenvolvimento web, bancos de dados e computação em nuvem.</p>
+  
+  <h2 style="color: #333;">🎯 Habilidades em desenvolvimento:</h2>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>Noções básicas em programação.</li>
+    <li>Interesse em análise de dados e computação em nuvem.</li>
+  </ul>
+  
+  <h2 style="color: #333;">🌟 Minha motivação:</h2>
+  <p>Apesar de estar no começo, sou motivado pela ideia de construir soluções tecnológicas que tenham impacto real, ajudando pessoas e empresas a atingirem seus objetivos.</p>
+  
+  <h2 style="color: #333;">📫 Vamos conversar?</h2>
+  <p>Se você tem dicas, ideias ou projetos que queira compartilhar, adoraria aprender com você!</p>
+  
+  <footer style="margin-top: 20px; text-align: center; color: #777; font-size: 0.9em;">
+    <p>✨ Sempre em busca de aprendizado e novas conexões!</p>
+  </footer>
+</div>
 
 ###
 
