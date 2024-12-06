@@ -1,5 +1,26 @@
 
-<p align="center">👋 Olá! <br><br>💻 Sou estudante de Análise e Desenvolvimento de Sistemas, iniciando minha trajetória no universo da tecnologia e com muita vontade de aprender e crescer na área.<br><br>🚀 O que estou fazendo?<br>Atualmente, estou explorando conceitos de desenvolvimento web, bancos de dados e computação em nuvem, com um grande interesse em projetos que combinam inovação e acessibilidade.<br><br>🎯 Habilidades em desenvolvimento:<br>Noções básicas em programação.<br>Interesse em análise de dados e computação em Nuvem.<br><br>🌟 Minha motivação:<br>Apesar de estar no começo, sou motivado pela ideia de construir soluções tecnológicas que tenham impacto real, ajudando pessoas e empresas a atingirem seus objetivos.<br><br>📫 Vamos conversar?<br>Se você tem dicas, ideias ou projetos que queira compartilhar, adoraria aprender com você!</p>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h1>👋 Olá! Seja Bem-Vindo(a)</h1>
+  
+  <h2>💻 Quem sou eu?</h2>
+  <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, iniciando minha trajetória no universo da tecnologia e com muita vontade de aprender e crescer na área.</p>
+  
+  <h2>🚀 O que estou fazendo?</h2>
+  <p>Atualmente, estou explorando conceitos de desenvolvimento web, bancos de dados e computação em nuvem, com um grande interesse em projetos que combinam inovação e acessibilidade.</p>
+  
+  <h2>🎯 Habilidades em desenvolvimento:</h2>
+  <ul>
+    <li>Noções básicas em programação </li>
+    <li>Interesse em análise de dados e computação em nuvem.</li>
+  </ul>
+  
+  <h2>🌟 Minha motivação:</h2>
+  <p>Apesar de estar no começo, sou motivado pela ideia de construir soluções tecnológicas que tenham impacto real, ajudando pessoas e empresas a atingirem seus objetivos.</p>
+  
+  <h2>📫 Vamos conversar?</h2>
+  <p>Se você tem dicas, ideias ou projetos que queira compartilhar, adoraria aprender com você!</p>
+</div>
+
 
 ###
 
@@ -18,9 +39,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ERIKAZDECARVALHO/ERIKAZDECARVALHO/output/snake.svg" alt="Snake animation" />
 
 ###
